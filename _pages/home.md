@@ -48,7 +48,7 @@ We are an evolutionary biology and behavior lab located in Derring Hall at [Virg
 If you would like to contact us, please email ***contact info***. If you would like to view our publications, please go to our [Google Scholar](https://scholar.google.com/citations?user=zZFIS2oAAAAJ&hl=en).
 
 
-**organizations we are associated with**. 
+**organizations we are associated with:**. 
  <figure class="fifth">
   <img src="{{ site.url }}{{ site.baseurl }}images/Media/Logo-SELVA.png" style="width: 130px">
     <img src="{{ site.url }}{{ site.baseurl }}images/Media/VT.jpg" style="width: 130px">
