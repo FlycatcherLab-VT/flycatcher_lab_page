@@ -10,8 +10,8 @@ permalink: /media/
 ## Lectures and Interviews ##
 
 
-#### Birds Of A Feather Flutter Together: NPR Segment 
-https://www.sciencefriday.com/segments/bird-feather-flutter/
+#### [(Birds Of A Feather Flutter Together: NPR Segment)](https://www.sciencefriday.com/segments/bird-feather-flutter/)
+
 
 
 
