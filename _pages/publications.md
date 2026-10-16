@@ -15,7 +15,7 @@ permalink: /publications/
 <!-- accordion menu markdown architecture -->
 {% include accordion.html %}
 
-{% assign the_years = "2026,2025,2024,2023,2022,2021,2020,2019,2018,2017" | split: "," %}
+{% assign the_years = "2026,2025,2024,2023,2022,2021,2020,2019,2017,2014" | split: "," %}
 <ul class="jekyllcodex_accordion">
 {% for year in the_years %}
   {% assign pubs = site.data.publist | where: "year", year %}
