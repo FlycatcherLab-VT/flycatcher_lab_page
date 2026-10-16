@@ -18,7 +18,7 @@ permalink: /media/
 #### Built to Survive: A Look into Biomechanics [(The Field Museum Youtube Channel)](https://www.youtube.com/@TheFieldMuseum)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lmmUrU5ra3Q?si=c0eykgX6lyRFvCem" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#### Built to Survive: A Look into Biomechanics [(Ciencia Café Pa ́ Sumercé Youtube Channel)](https://www.youtube.com/@cienciasumerce)
+#### Plumas Sonoras (Sonating Feathers) [(Ciencia Café Pa ́ Sumercé Youtube Channel)](https://www.youtube.com/@cienciasumerce)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mflMZqAsivI?si=N8s8bY1NSgBcm3C3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Gallery ## 
