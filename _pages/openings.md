@@ -19,5 +19,5 @@ If you are an undergraduate or a collaborator looking to be involved with the la
 
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}images/Media/Dino_members.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}images/Media/Dino_members.jpg" width="45%">
 </figure>
