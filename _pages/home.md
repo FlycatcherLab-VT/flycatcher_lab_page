@@ -25,16 +25,16 @@ We are an evolutionary biology and behavior lab located in Derring Hall at [Virg
 <!-- Edit this if you would like to change the images of the slides on the homepage-->
 <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/drosophila.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Media/currBIO.avif" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/phylo.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Media/egg.avif" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/fungi.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Media/CLiff_in_hand.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/species_boundaries.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/Media/Walking_away.avif" alt="Slide 4" />
     </div>
  </div> 
 
