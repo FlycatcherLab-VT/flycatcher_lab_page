@@ -8,7 +8,9 @@ permalink: /
 
 **Welcome to the homepage of the Flycatcher lab!**
 
-We are an evolutionary biology and behavior lab located in Derring Hall at [Virginia Tech](https://www.vt.edu/index.html).  
+We are an evolutionary biology and behavior lab located in Derring Hall at [Virginia Tech](https://www.vt.edu/index.html).We are primarily 
+interested in how migration acts as both a result and a driver of evolution, and we employ a variety of methods across study systems to answer 
+our questions. If you would like to read more, please visit our **Research** and **Publications** page.  
 
 <!-- Edit this if you would like to change the number of slides of the slides on the homepage-->
  <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" > 
@@ -45,7 +47,7 @@ We are an evolutionary biology and behavior lab located in Derring Hall at [Virg
   </a>
 </div> 
 
-If you would like to contact us, please email ***contact info***. If you would like to view our publications, please go to our [Google Scholar](https://scholar.google.com/citations?user=zZFIS2oAAAAJ&hl=en).
+If you would like to contact us, please email ***valentinagb@vt.edu***. If you would like to view our publications, please go to our [Google Scholar](https://scholar.google.com/citations?user=zZFIS2oAAAAJ&hl=en).
 
 
 **organizations we are associated with:**. 
