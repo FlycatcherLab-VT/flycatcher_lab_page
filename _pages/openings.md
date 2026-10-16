@@ -8,18 +8,16 @@ permalink: /vacancies
 
 # Openings
 
-*fill with instructions from Valentina*
 
 ### Applications for PhD and Postdoc positions
 
-*fill with instructions from Valentina*
+We are currently not recruiting graduate students for the 2027-2028 cycle. If you are interested in a potential Postdoc project, please reach out to Valentina directly.
 
 ### Other Lab Positions 
 
-*fill with instructions from Valentina*
+If you are an undergraduate or a collaborator looking to be involved with the lab, please send a short email to anyone in the lab, and we would be happy to include you in our weekly meetings/correspondences !
 
-<!-- 
+
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}images/Media/Dino_members.jpg" width="95%">
 </figure>
--->
