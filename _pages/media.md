@@ -9,12 +9,17 @@ permalink: /media/
 
 ## Lectures and Interviews ##
 
-<!-- 
-#### On the evolution of postzygotic isolation during divergence [(EcoEvoSeminars Youtube Channel)](https://www.youtube.com/@EvoEco)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6Czy7x-ooqA?si=Im52pegNCwRKaRhn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
--->
+
+#### Birds Of A Feather Flutter Together: NPR Segment 
+https://www.sciencefriday.com/segments/bird-feather-flutter/
 
 
+
+#### Built to Survive: A Look into Biomechanics [(The Field Museum Youtube Channel)](https://www.youtube.com/@TheFieldMuseum)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lmmUrU5ra3Q?si=c0eykgX6lyRFvCem" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+#### Built to Survive: A Look into Biomechanics [(Ciencia Café Pa ́ Sumercé Youtube Channel)](https://www.youtube.com/@cienciasumerce)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mflMZqAsivI?si=N8s8bY1NSgBcm3C3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Gallery ## 
 
